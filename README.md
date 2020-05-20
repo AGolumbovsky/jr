@@ -1,2 +1,3 @@
 # jr
 Like jj but in Rust
+but wait, there is more...
